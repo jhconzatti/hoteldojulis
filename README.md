@@ -21,6 +21,12 @@
 
 > Importar o arquivo 'HotelDoJulis.postman_collection.json' presente neste repositório diretamente no Postman para facilitar os testes.
 
+## Tools used
+
+* Spring-boot
+* PostgreSQL
+* Java 8
+
 ## Release History
 
 * 0.1.0
