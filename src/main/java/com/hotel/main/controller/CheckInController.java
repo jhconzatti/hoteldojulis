@@ -29,18 +29,6 @@ public class CheckInController {
 	public List<CheckIn> buscaTodos() {
 		return checkinService.buscarTodos();
 	}
-	
-	/*
-	 * consultar hospedes que ja realizaram checkin mas nao estao mais no hotel
-	 */
-	
-	/* 
-	 * consultar quem ainda esta no hotel
-	 */
-	
-	/*
-	 * Todas consultas devem apresentar o valor total e o valor da ultima hospedagem
-	 */
 
 	@PostMapping(value = "/checkin/{idHospede}")
 	public CheckIn checkIn(@PathVariable(value = "idHospede") Long idHospede, @RequestBody CheckIn checkIn) {
