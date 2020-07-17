@@ -23,3 +23,7 @@
     * The first proper release
 * 0.0.1
     * Work in progress
+
+## Author
+
+Juliano Heberhardt Conzatti – [@hcjuliano](https://www.instagram.com/hcjuliano) – jhconzatti@gmail.com
