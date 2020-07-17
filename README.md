@@ -17,6 +17,10 @@
 * Caso a pessoa precise de uma vaga na garagem do hotel há um acréscimo diário, sendo R$15,00 de segunda à sexta e R$20,00 nos finais de semana;
 * Caso o horário da saída seja após às 16:30h deve ser cobrada uma diária extra;
 
+## Test case
+
+> Importar o arquivo 'HotelDoJulis.postman_collection.json' presente neste repositório diretamente no Postman para facilitar os testes.
+
 ## Release History
 
 * 0.1.0
